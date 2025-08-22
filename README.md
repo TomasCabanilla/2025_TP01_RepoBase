@@ -7,3 +7,5 @@ Contiene archivos simples para que puedas practicar creación de ramas, commits,
 ## Estructura
 - `src/app.js`: contiene un script básico.
 - `data/info.txt`: contiene datos de ejemplo.
+## Gestión de Usuarios
+Ahora el proyecto incluye un archivo en `data/usuarios.txt` con datos de prueba para futuras pruebas de funcionalidades.
